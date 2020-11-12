@@ -98,5 +98,6 @@ holidays_with_bbqs(holiday_supplies)
 
 ## Resources
 
-*[StackOverflow: Accessing Elements of Nested Hashes in Ruby](http://stackoverflow.com/questions/5544858/accessing-elements-of-nested-hashes-in-ruby)
-*[honeybadger - Advanced Ruby Hash Techniques](http://blog.honeybadger.io/advanced-ruby-hash-techniques/)
+* [StackOverflow: Accessing Elements of Nested Hashes in Ruby](http://stackoverflow.com/questions/5544858/accessing-elements-of-nested-hashes-in-ruby)
+
+* [honeybadger - Advanced Ruby Hash Techniques](http://blog.honeybadger.io/advanced-ruby-hash-techniques/)
